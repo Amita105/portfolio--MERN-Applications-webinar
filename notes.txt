@@ -1,0 +1,38 @@
+npm run dev  to start the app with devdependency
+
+set environment variables
+
+mongoose and connect with mongodb
+
+we cannot write mongodb connection in server.js
+
+test the route in postman
+
+when we create routes and models we need to check with the folder ../
+
+
+
+
+
+npx create-react-app .
+
+remove unnecesary files
+public folder except index.html 
+test files in src 
+logo svg report 
+
+npm i react-router-dom
+
+build the browser router
+
+create component for route
+
+Use Link in navbar.js for the anchor tags 
+
+and give to as / or /all 
+
+lets create form in create.jsx and save in database
+
+after you login cd backend -- node server.js to run backend server 
+
+for front end we do cd appname  and then npm start -
